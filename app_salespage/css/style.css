@@ -1,0 +1,19 @@
+body {
+  padding-top: 50px;
+}
+
+.navbar-header .em-text {
+  color: #30B039;
+}
+
+.jumbotron {
+  background: url(../img/site_showcase_bg.jpg) no-repeat top center;
+  color: #fff;
+  height: 598px;
+  overflow: : none;
+}
+
+.jumbotron .app-btn {
+  width: 40%;
+  margin-right: 30px;
+}
