@@ -9,3 +9,7 @@ Build [10 Bootstrap Projects](https://www.udemy.com/learn-bootstrap-development-
 - using Sass variables
 - Grid system, List styling, Progress Bar components
 - Media objects, Alerts, Media queries
+
+## Social Network Template
+- Nested Grids, Button Groups, Image Classes, List Styling
+- Horizontal Form, Image Modal, Gallery Plugin, Media Queries
